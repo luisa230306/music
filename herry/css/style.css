@@ -1,0 +1,132 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#img{
+   
+    width:210vh;
+}
+.parrafo{
+    text-align:left;
+    float:left ;
+     margin-top:30vh ;
+    padding-left: 80px;
+    bottom: 10vh;
+    width: 500px;
+    height: 500px;
+  
+   
+
+}
+#img2{
+    
+    width: 400px;
+     float:right;  
+
+  
+ 
+}
+h1{
+    position: absolute;
+    padding-left: 45vh;
+    top:35vh;
+    text-align: center;
+    font-size: 50vh;
+    color: #fff;
+}
+ h3,h4{
+    font-size: 50px;
+    
+
+ }
+ h2{
+    font-size: 50px;
+    color: rgb(194, 5, 5);
+ }
+ .button{
+   background-color: red;
+   color: rgb(238, 235, 235);
+   border-radius: 20px;
+   padding: 7px;
+   border: none;
+   margin-top: 5vh;
+   width: 100px;
+
+ }
+ #img3{
+ width: 400px;
+ padding-right: 80vh;
+ margin: 70px;
+ 
+ 
+ 
+
+ }
+ .parrafo1{
+    text-align:left;
+    float:right ;
+    position: relative;
+    padding-right: 80px;
+    width: 500px;
+    height: 500px;
+    bottom: 80vh;
+    
+   
+
+}
+#img4{
+    width: 220vh;
+    height: 100vh;
+ 
+   
+}
+.parrafo2{
+    text-align:left;
+    float:right ;
+    position: relative;
+     width: 500px;
+    height: 500px;
+    font-size: 30px;
+    color: #fff;
+    bottom: 80vh;
+  
+   
+
+}
+h5,h6{
+    font-size: 40px;
+    color: #fff;
+
+}
+.table {
+    
+    padding-left: 80px;
+    width: 199vh;
+    height: 110vh;
+    background-color: red;
+
+  }
+  table{
+     width: 200vh;
+     padding: 5px;
+    margin-right: 10px;
+    color: #fff;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    bottom: 50vh;
+   
+  }
+  
+  th, td {
+    padding:10px;
+ 
+   left: 10vh;
+   bottom: 50vh;   
+  }
+  #linea{
+     width: 100vh;
+    border: solid #fff;
+    border-radius: 1px;
+    position: relative;
+    bottom: 70px;
+  }
